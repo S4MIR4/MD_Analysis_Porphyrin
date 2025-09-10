@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+seaborn
+IPython
+jupyter
+git+https://github.com/cjkingsbury/scsd
